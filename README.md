@@ -1,3 +1,3 @@
 # Nitin-demo-
 This is my first git reporetory.
-Aouther-Nitin Sangave
+Auther-Nitin Sangave
